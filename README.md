@@ -12,15 +12,15 @@ Analyze key factors affecting delivery delays using data analysis.
 
 ## 🛠 Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
-- Power BI
+- Power BI (DAX)
 
 ## 📈 Dashboard
 <img width="2427" height="1348" alt="image" src="https://github.com/user-attachments/assets/1edfa567-2e2b-4f8f-9586-6a37e5a7bf9c" />
 
 
 ## 🔗 Project Links
-- Medium: 
-- Dashboard: 
+- Medium: [https://medium.com/@ekaputrafajarhariyadi/identifying-key-drivers-of-delivery-delays-using-data-a66fea64e76d](url)
+- Dashboard: [https://drive.google.com/file/d/1t9H3Nq4dbgYgJNctud16Wdo-88sX-tEL/view?usp=sharing](url)
 
 ## 📂 Dataset
 Contains ~42,000 delivery records with operational variables.
