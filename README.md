@@ -5,6 +5,9 @@ End-to-end data analysis to identify key drivers of delivery delays
 ## 📌 Objective
 Analyze key factors affecting delivery delays using data analysis.
 
+## ❓ Business Problem
+What factors contribute the most to delivery delays, and how can operations be optimized to reduce them?
+
 ## 📊 Key Insights
 - Multiple deliveries increase delay by ~68%
 - Distance contributes ~39% longer delivery time
@@ -27,3 +30,9 @@ Contains ~42,000 delivery records with operational variables.
 
 ## 🚀 Conclusion
 Operational factors such as workload and routing are the main drivers of delivery delays.
+
+## 🚀 Business Recommendations
+
+- Limit multiple deliveries per driver during peak hours
+- Optimize delivery routes for long-distance orders
+- Prioritize nearby deliveries under heavy traffic
